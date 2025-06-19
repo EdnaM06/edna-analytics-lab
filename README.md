@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="assets/Leonardo_Lightning_XL_a_black_woman_with_straight_up_braided_3 ).jpg" alt="Edna Analytics Lab Banner" width="100%">
+  <img src="assets/banner.jpg" alt="Edna Analytics Lab Banner" width="100%">
 </p>
 
 # 🧪 Edna Analytics Lab
@@ -28,9 +28,9 @@ This lab reflects my journey of learning data analytics through real-world proje
 
 | 📌 Project | Description | Status | Tools |
 |-----------|-------------|--------|-------|
-| [Amazon Product Dataset](./amazon-product-dataset/) | Sales & customer feedback analysis from Kaggle | In Progress | Python, Pandas |
-| [Google Data Analytics Capstone: Netflix](./netflix-capstone/) | Exploratory analysis of Netflix data | Planned | Python, Seaborn |
-| [Internet Usage](./internet-usage/) | Analysis of internet usage trends | Planned | Power BI, Excel |
+| [Google Data Analytics Capstone: Netflix](https://www.kaggle.com/datasets/dogacelik/google-data-analytics-capstone-project-netflix) | Exploratory analysis of Netflix data | In Progress | Power BI, Python, Seaborn |
+| [Amazon Product Dataset](https://www.kaggle.com/datasets/zadafiyabhrami/amazon-product-dataset-sales-and-customer-feedback) | Sales & customer feedback analysis from Kaggle | Planned | Tableu,Python, Seaborn |
+| [Internet Usage](https://www.kaggle.com/datasets/pavan9065/internet-usage) | Analysis of internet usage trends | Planned | Power BI, Excel |
 
 ---
 
@@ -63,8 +63,8 @@ Like many learners, I found theory-based tutorials difficult to follow. This spa
 - [GitHub – edna-kobo](https://github.com/edna-kobo)  
 
     </td>
-    <td style="vertical-align: middle; padding-left: 20px;">
-      <img src="assets/20250618_133559(0).jpg" alt="Edna Kobo" width="120" style="border-radius: 50%;">
+    <td align="center" valign="middle">
+      <img src="assets/profile.jpg" alt="Edna Kobo" width="120">
     </td>
   </tr>
 </table>
