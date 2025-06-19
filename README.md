@@ -1,6 +1,6 @@
-<!-- Banner Image -->
+<!-- Banner -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Edna Analytics Lab Banner" width="100%">
+  <img src="assets/banner.jpg" alt="Banner" width="100%">
 </p>
 
 # 🧪 Edna Analytics Lab
@@ -52,6 +52,7 @@ Like many learners, I found theory-based tutorials difficult to follow. This spa
 
 ---
 
+<!-- Contact with profile pic -->
 <table>
   <tr>
     <td>
