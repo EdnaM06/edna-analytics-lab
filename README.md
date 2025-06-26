@@ -63,9 +63,11 @@ Like many learners, I found theory-based tutorials difficult to follow. This spa
 - [YouTube – AnalytIQ HQ](https://www.youtube.com/@Analytiq_HQ)  
 - [GitHub – edna-kobo](https://github.com/edna-kobo)  
 
-    </td>
+   <table>
+  <tr>
+    <td>Some other content here</td>
     <td align="center" valign="middle">
-      <img src="assets/profile.jpg" alt="Edna Kobo" width="120">
+      <img src="https://photos.fife.usercontent.google.com/pw/AP1GczNvdSIBr825fRE92e9WwclBNk_fR8qdAff2LVyf-fBu3pXBqkzQqAxt=w621-h827-s-no-gm?authuser=0" alt="Edna Kobo" width="120">
     </td>
   </tr>
 </table>
