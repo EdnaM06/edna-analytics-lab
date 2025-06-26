@@ -59,15 +59,15 @@ Like many learners, I found theory-based tutorials difficult to follow. This spa
 
 ### 📬 Let's Connect!
 
-- [LinkedIn – Edna Kobo](https://linkedin.com/in/edna-kobo)  
-- [YouTube – AnalytIQ HQ](https://www.youtube.com/@Analytiq_HQ)  
-- [GitHub – edna-kobo](https://github.com/edna-kobo)  
+- [LinkedIn – Edna Kobo](https://linkedin.com/in/edna-kobo)
+- [YouTube – AnalytIQ HQ](https://www.youtube.com/@AnalytIQHQ)
+- [GitHub – edna-kobo](https://github.com/edna-kobo)
 
-   <table>
+<table>
   <tr>
     <td>Some other content here</td>
     <td align="center" valign="middle">
-      <img src="https://photos.fife.usercontent.google.com/pw/AP1GczNvdSIBr825fRE92e9WwclBNk_fR8qdAff2LVyf-fBu3pXBqkzQqAxt=w621-h827-s-no-gm?authuser=0" alt="Edna Kobo" width="120">
+      <img src="[YOUR_VALID_DIRECT_IMAGE_URL_HERE](https://photos.fife.usercontent.google.com/pw/AP1GczNvdSIBr825fRE92e9WwclBNk_fR8qdAff2LVyf-fBu3pXBqkzQqAxt=w621-h827-s-no-gm?authuser=0)" alt="Edna Kobo" width="120">
     </td>
   </tr>
 </table>
