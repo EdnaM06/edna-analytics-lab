@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="100%">
+  <img src="https://cdn.leonardo.ai/users/e7246cb4-6a6f-477b-8096-bc627d2508bf/generations/70326539-2397-4b73-b5da-9564b1ea4b56/Leonardo_Lightning_XL_a_black_woman_with_straight_up_braided_3.jpg" alt="Project Banner" width="100%">
 </p>
 
 # 🧪 Edna Analytics Lab
